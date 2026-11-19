@@ -1,5 +1,8 @@
+## NAME: PAVITHIRA
+## REG NO:212225040297
+
 # Ex. No: 6 Identifying MAC and IP Addresses Using Packet Tracer
-# Date:
+# Date:19/11/20206
 ________________________________________
 # Objective
 To use Cisco Packet Tracer simulation mode to capture and analyze MAC and IP address information for both local and remote network communication.
@@ -13,7 +16,8 @@ ________________________________________
 # Description:
 •	The topology contains a local network (172.16.31.0/24) connected to a remote network (10.10.10.0/24) via a router.<br>
 •	Devices include PCs, switches, hub, and wireless AP.<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
+<img width="580" height="608" alt="image" src="https://github.com/user-attachments/assets/4ec4e5d7-d19e-4c47-b7a6-5c37b1c9f9de" />
+
 ________________________________________
 # IP Addressing Table
 (Example – actual values from simulation)<br>
@@ -49,8 +53,19 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 ________________________________________
 # Output (Screenshots)
 •	PDU details for local communication<br>
+<img width="1913" height="1133" alt="image" src="https://github.com/user-attachments/assets/089a350f-bfea-4252-9db2-f1a60e222bc8" />
+
+<img width="1907" height="1132" alt="image" src="https://github.com/user-attachments/assets/700c73fa-d28c-4689-91c3-22dedf5bd419" />
+
 •	PDU details for remote communication<br>
+<img width="1907" height="1131" alt="image" src="https://github.com/user-attachments/assets/b07c0080-0121-4f33-a7f5-5beff354255d" />
+
+<img width="1907" height="1135" alt="image" src="https://github.com/user-attachments/assets/59e12734-58f3-4887-ab50-4e91c241ad39" />
+
+
 •	Tables showing MAC/IP changes through each device<br>
+<img width="1910" height="1127" alt="image" src="https://github.com/user-attachments/assets/e4cb948e-d714-4ef6-b2c2-02681d4f2637" />
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
